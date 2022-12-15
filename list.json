@@ -1,0 +1,339 @@
+{
+  "gamesList": [
+    {
+      "id": 1,
+      "gamename": "Black Desert Online (PC)",
+      "price": 7.07,
+      "country": "Global",
+      "url": "black-desrt-online",
+      "img": "https://geex.x-kom.pl/wp-content/uploads/2022/04/black-desert-online-grafika-logo.jpg",
+      "platform": "Website"
+    },
+    {
+      "id": 2,
+      "gamename": "Cyberpunk 2077 (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Cyberpunk",
+      "img": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
+      "platform": "Gog_com"
+    },
+    {
+      "id": 3,
+      "gamename": "Days Gone (PS5)",
+      "price": 20.01,
+      "country": "Global",
+      "url": "Days-Gone",
+      "img": "https://a.allegroimg.com/original/116fdf/27757a624f90be442f6bd4895427/Days-Gone-KLUCZ-Steam-GRA-NA-PC",
+      "platform": "Steam"
+    },
+    {
+      "id": 4,
+      "gamename": "Horizon: Forbidden West (PS5)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "Horizon",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/v4eAjYFYVdvZayun8qR5RO8B.jpg",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 5,
+      "gamename": "Marvel’s Spider-Man: Miles Morales (PC)",
+      "price": 50.01,
+      "country": "Global",
+      "url": "Spider-Man",
+      "img": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6",
+      "platform": "Steam"
+    }
+  ],
+  "best-games": [
+    {
+      "id": 10,
+      "gamename": "FIFA 23 (PS5)",
+      "price": 7.07,
+      "country": "Europe",
+      "url": "fifa-23",
+      "img": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23UltimateEdition_EACanada_Editions_S2_1200x1600-818a94c682b55e8c54f4e3d837782ff9",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 11,
+      "gamename": "Just Dance 2023 Edition (PS5)",
+      "price": 7.07,
+      "country": "Global",
+      "url": "Just-Dance-2023-Edition",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1520/p1hUAPPNTz9B1eKEViVSDlhv.jpg",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 12,
+      "gamename": "Eldertrail (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Eldertrail",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5gnv.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 13,
+      "gamename": "Saints Row: Gat out of Hell (PS5)",
+      "price": 20.01,
+      "country": "Global",
+      "url": "Saints-Row-Gat-out-of-Hell",
+      "img": "https://image.api.playstation.com/cdn/EP4062/CUSA00939_00/U8HHqgzHc7SqbqWgcGcIx97u74lVEKFE.png",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 14,
+      "gamename": "Ghost of Tsushima(PS5)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "Ghost-of-Tsushima",
+      "img": "https://lowcygier.pl/wp-content/uploads/2021/07/ghost-of-tsushima-directors-cut-miniaturka-scaled.jpg",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 15,
+      "gamename": "Forspoken (PC)",
+      "price": 50.01,
+      "country": "Europe",
+      "url": "Forspoken",
+      "img": "https://assets-prd.ignimgs.com/2022/06/23/forspoken-button-fin-1656019045535.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 16,
+      "gamename": "Knights of Honor II: Sovereign (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Knights-of-Honor-II-Sovereign",
+      "img": "https://thumbnails.pcgamingwiki.com/1/12/Knights_of_Honor_II_%E2%80%93_Sovereign_-_cover.jpg/300px-Knights_of_Honor_II_%E2%80%93_Sovereign_-_cover.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 17,
+      "gamename": "The Lord of the Rings: Gollum (PC)",
+      "price": 20.01,
+      "country": "Europe",
+      "url": "The-Lord-of-the-Rings-Gollum",
+      "img": "https://www.gematsu.com/wp-content/uploads/2021/12/Game-Page-Box-Art_The-Lord-of-the-Rings-Gollum-Inits-320x480.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 18,
+      "gamename": "Hello Neighbor 2 (PC)",
+      "price": 30.01,
+      "country": "Global",
+      "url": "Hello-Neighbor-2",
+      "img": "https://images.g2a.com/1024x768/1x1x0/hello-neighbor-2-deluxe-edition-pc-steam-gift-global-i10000325659010/e6fdb28dc98241b893d35754",
+      "platform": "Steam"
+    },
+    {
+      "id": 19,
+      "gamename": "Resident Evil Village (PC)",
+      "price": 50.01,
+      "country": "Poland",
+      "url": "Resident-Evil-Village",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+      "platform": "Steam"
+    },
+    {
+      "id": 20,
+      "gamename": "Marvel’s Spider-Man: Miles Morales (PC)",
+      "price": 50.01,
+      "country": "Global",
+      "url": "Spider-Mans",
+      "img": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6",
+      "platform": "Steam"
+    },
+    {
+      "id": 21,
+      "gamename": "Resident Evil Re:Verse (PS5)",
+      "price": 7.07,
+      "country": "Global",
+      "url": "Resident-Evil-Re-Verse",
+      "img": "http://store-images.s-microsoft.com/image/apps.40231.13909589030033360.13de5814-4b30-4e87-b81a-fdd2d9efd1bb.c7d8c6c3-3388-4a12-a35b-d8b8f9331f5b?format=jpg",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 22,
+      "gamename": "Atomic Heart (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Atomic-Heart",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/wQEe1u0VwuBPArynFWFpEHqZ.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 23,
+      "gamename": "Dead Island 2 (PC)",
+      "price": 20.01,
+      "country": "Global",
+      "url": "Dead-Island-2",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1908/TX09uz3ogCmsL8EgJ4NrF0Rh.png",
+      "platform": "Steam"
+    },
+    {
+      "id": 24,
+      "gamename": "Blacktail (PC)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "Blacktail",
+      "img": "https://cdn1.epicgames.com/offer/a17cc66c3a3c4d75875febf281c73fd2/EGS_BLACKTAIL_THEPARASIGHT_S2_1200x1600-a87fc356f4792b9b0de74b2d1a10cd26",
+      "platform": "Steam"
+    },
+    {
+      "id": 25,
+      "gamename": "Kholat (PS5)",
+      "price": 50.01,
+      "country": "Europe",
+      "url": "Kholat",
+      "img": "https://image.api.playstation.com/cdn/EP1546/CUSA04252_00/VbiatXSp4B6lx8xCvz2NQqYMcO5lU2Ph.png",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 26,
+      "gamename": "Sackboy: A Big Adventure (PS5)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Sackboy-A-Big-Adventure",
+      "img": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/pQt8PCDIaaHB9lFslcG45Lr0.png",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 27,
+      "gamename": "Battlefield 2042 (PS5)",
+      "price": 20.01,
+      "country": "Europe",
+      "url": "Battlefield-2042",
+      "img": "https://static.kinguin.net/media/images/products/_battlefield20422.jpg",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 28,
+      "gamename": "Battlefield V (PC)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "Battlefield-V",
+      "img": "https://image.api.playstation.com/cdn/EP0006/CUSA08670_00/l2B6pYvxHDYUjuhT0vTHcidJA2MpjWR4.png",
+      "platform": "Steam"
+    },
+    {
+      "id": 29,
+      "gamename": "Resident Evil 4 (PC)",
+      "price": 50.01,
+      "country": "Global",
+      "url": "Resident-Evil-4",
+      "img": "https://cdn-products.eneba.com/resized-products/boimhYQJN5bgBtjLC8v3eDyNK9cAwBs1f5VPjDFIbRo_350x200_1x-0.jpeg",
+      "platform": "Steam"
+    },
+    {
+      "id": 30,
+      "gamename": "The Dark Pictures Anthology: The Devil in Me (PC)",
+      "price": 50.01,
+      "country": "Global",
+      "url": "The-Dark-Pictures-Anthology",
+      "img": "https://images.g2a.com/1024x768/1x1x0/the-dark-pictures-anthology-the-devil-in-me-pc-steam-gift-europe-i10000336734004/aebff036fe604b6798cea587",
+      "platform": "Steam"
+    },
+    {
+      "id": 31,
+      "gamename": "Need for Speed™ Unbound (PC)",
+      "price": 7.07,
+      "country": "Global",
+      "url": "Need-for-Speed-Unbound",
+      "img": "https://www.mediaexpert.pl/media/cache/resolve/gallery/images/42/4205400/Need-for-Speed-Unbound-Gra-PC-front-2d-001.jpg",
+      "platform": "Website"
+    },
+    {
+      "id": 32,
+      "gamename": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "stalker",
+      "img": "https://image.ceneostatic.pl/data/products/109868363/i-s-t-a-l-k-e-r-2-heart-of-chernobyl-digital.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 33,
+      "gamename": "Vampire: The Masquerade - Bloodlines 2 - First Blood Edition (PS5)",
+      "price": 20.01,
+      "country": "Global",
+      "url": "Vampire-The-Masquerade",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Vampire_The_Masquerade_Bloodlines_2_Cover_Art.png",
+      "platform": "Steam"
+    },
+    {
+      "id": 34,
+      "gamename": "Hogwarts Legacy (PC)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "Hogwarts-Legacy",
+      "img": "https://cdn-products.eneba.com/resized-products/pWjtGdm5_gHCDbrLlHo_OtPbUsin7dyCzylQ0snaSoM_350x200_1x-0.jpg",
+      "platform": "Steam"
+    },
+    {
+      "id": 36,
+      "gamename": "Marvel's Midnight Suns (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "Marvels-Midnight-Suns",
+      "img": "https://cdn1.epicgames.com/offer/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S2_1200x1600-2bbbf1249898e7441527c7b5679b1dd2",
+      "platform": "Steam"
+    },
+    {
+      "id": 37,
+      "gamename": "God of War Ragnarök (PS5)",
+      "price": 20.01,
+      "country": "Europe",
+      "url": "God-of-War-Ragnarok",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+      "platform": "PlayStation"
+    },
+    {
+      "id": 38,
+      "gamename": "The Witcher 3: Wild Hunt GOTY",
+      "price": 7.07,
+      "country": "Poland",
+      "url": "The-Witcher",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+      "platform": "Gog_com"
+    },
+    {
+      "id": 39,
+      "gamename": "Black Desert Online (PC)",
+      "price": 7.07,
+      "country": "Global",
+      "url": "black-desrt-Online-pc",
+      "img": "https://geex.x-kom.pl/wp-content/uploads/2022/04/black-desert-online-grafika-logo.jpg",
+      "platform": "Website"
+    },
+    {
+      "id": 40,
+      "gamename": "Cyberpunk 2077 (PC)",
+      "price": 10.01,
+      "country": "Europe",
+      "url": "CyberPunk-2077",
+      "img": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
+      "platform": "Gog_com"
+    },
+    {
+      "id": 41,
+      "gamename": "Days Gone (PC)",
+      "price": 20.01,
+      "country": "Global",
+      "url": "Day-gone",
+      "img": "https://a.allegroimg.com/original/116fdf/27757a624f90be442f6bd4895427/Days-Gone-KLUCZ-Steam-GRA-NA-PC",
+      "platform": "Steam"
+    },
+    {
+      "id": 42,
+      "gamename": "Horizon: Forbidden West (PS5)",
+      "price": 30.01,
+      "country": "Europe",
+      "url": "horaizo-Forbidden-West",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/v4eAjYFYVdvZayun8qR5RO8B.jpg",
+      "platform": "PlayStation"
+    }
+  ]
+}
