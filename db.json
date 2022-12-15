@@ -269,15 +269,6 @@
       "url": "CyberPunk-2077",
       "img": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
       "platform": "Gog_com"
-    },
-    {
-      "id": 41,
-      "gamename": "Days Gone (PC)",
-      "price": 20.01,
-      "country": "Global",
-      "url": "Day-gone",
-      "img": "https://a.allegroimg.com/original/116fdf/27757a624f90be442f6bd4895427/Days-Gone-KLUCZ-Steam-GRA-NA-PC",
-      "platform": "Steam"
     }
   ]
 }
